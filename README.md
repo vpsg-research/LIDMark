@@ -15,11 +15,12 @@
 If you find this code or our paper useful, please consider citing:
 
 ```bibtex
-@inproceedings{zhang2025omniguard,
+@inproceedings{wu2025lidmark,
   title={All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark},
   author={Wu, Junjiang and Wang, Liejun and Guo, Zhiqing},
   booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
   year={2026}
 }
 ```
+
 ---
