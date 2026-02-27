@@ -15,7 +15,7 @@
 If you find this code or our paper useful, please consider citing:
 
 ```bibtex
-@inproceedings{wu2025lidmark,
+@inproceedings{wu2026lidmark,
   title={All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark},
   author={Wu, Junjiang and Wang, Liejun and Guo, Zhiqing},
   booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
@@ -24,3 +24,4 @@ If you find this code or our paper useful, please consider citing:
 ```
 
 ---
+
