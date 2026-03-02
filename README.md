@@ -7,7 +7,7 @@
     <a href='http://www.guozhiqing.cn/' target='_blank'>Zhiqing Guo</a><sup>1, 2</sup>
 </div>
 <div>
-    <sup>1</sup>School of Computer Science and Technology, Xinjiang University, Urumqi, China&emsp;
+    <sup>1</sup>School of Computer Science and Technology, Xinjiang University, Urumqi, China<br>
     <sup>2</sup>Xinjiang Multimodal Intelligent Processing and Information Security Engineering Technology Research Center, Urumqi, China
 </div>
 <br>
@@ -200,3 +200,4 @@ This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-
 
 
 ---
+
