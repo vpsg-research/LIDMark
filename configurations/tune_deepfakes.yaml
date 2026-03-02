@@ -1,0 +1,36 @@
+img_size: 256
+encoder_blocks: 4
+decoder_blocks: 2
+batch_size: 8 
+img_path: "/home/wjj/LIDMark/dataset/image/celeba-hq_256"
+wm_path: "/home/wjj/LIDMark/dataset/watermark_152/celeba-hq"
+weight_path: "./weights/256_152"
+
+sep_model: true
+gpu_ids: "0, 1"
+seed: 42
+encoder_channels: 64
+decoder_channels: 64
+discriminator_channels: 64
+discriminator_blocks: 3
+watermark_length: 152
+epochs: 100   # Total number of training epochs for the fine-tuning phase.
+epoch: 100    # The specific epoch of the pre-trained model to load as the initialization point.
+lr: 4.0e-4
+manipulation_mode: "deepfake"
+deepfake_manipulation_layers:
+  - simswap: true
+  - uniface: true
+  - cscs: true
+  - stargan_v2: true
+encoder_weight: 11.7
+landmark_loss_weight: 4.2
+id_loss_weight: 1.0
+generative_weight: 4.1
+discriminator_weight: 0.02
+validation:
+  enable: false
+  save_count: 16
+resume:
+  enable: false
+  epoch: 0

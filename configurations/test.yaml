@@ -1,0 +1,42 @@
+img_size: 256
+encoder_blocks: 4
+decoder_blocks: 2
+img_path: "/home/wjj/LIDMark/dataset/image/celeba-hq_256"
+wm_path: "/home/wjj/LIDMark/dataset/watermark_152/celeba-hq"
+weight_path: "./weights/256_152"
+
+sep_model: true
+gpu_ids: "0"
+seed: 42
+encoder_channels: 64
+decoder_channels: 64
+watermark_length: 152
+batch_size: 32
+manipulation_mode: "unified"
+# Specifies the epoch number of the fine-tuned model checkpoint to load.
+# This represents the final weights obtained after the two-stage training process 
+# (i.e., after the Deepfake fine-tuning phase).
+epoch: 100
+
+common_manipulation_layers:
+  - "Identity()"
+  - "Resize(0.5)"
+  - "GaussianBlur(2,3)"
+  - "MedBlur(3)"
+  - "JpegTest(50)"
+  - "JpegMask(50)"
+deepfake_manipulation_layers:
+  - simswap: true
+  - uniface: true
+  - cscs: true
+  - stargan_v2: true
+  - infoswap: true
+
+save_samples:
+  common: false
+  deepfake: false
+  count: 16
+
+save_batches:
+  common: false
+  deepfake: false
