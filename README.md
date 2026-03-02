@@ -173,12 +173,6 @@ python main.py test --res 256
 
 If you find this repository helpful, please cite our paper:
 ```bibtex
-@inproceedings{wu2026all,
-  title={All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark},
-  author={Wu, Junjiang and Wang, Liejun and Guo, Zhiqing},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2026}
-}
 @misc{wu2026oneunifyingdeepfakedetection,
       title={All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark}, 
       author={Junjiang Wu and Liejun Wang and Zhiqing Guo},
@@ -203,5 +197,6 @@ This project is built upon several excellent open-source repositories and datase
 ## 📜 License
 
 This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-research/LIDMark/blob/main/LICENSE).
+
 
 ---
