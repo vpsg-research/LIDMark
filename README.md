@@ -17,7 +17,7 @@
 </div>
  
 ## 🔥 News
-* **[2026-02]** Our paper was accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 **(CVPR 2026)** !  🎉
+* **[2026-02]** Our paper was accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 **(CVPR 2026)**!  🎉
 
 
 ## 📆 Release Plan
@@ -54,7 +54,7 @@ This is the official repository for the CVPR 2026 paper *"[All in One: Unifying 
 
 ## 🗂️ Dataset Preparation
 
-LIDMark is trained on CelebA-HQ and evaluated on both CelebA-HQ and LFW. We do not own the copyright to these datasets. Please download them directly from their official webpages. Please follow the steps below to prepare your data environment.
+LIDMark is trained on CelebA-HQ and evaluated on both CelebA-HQ and LFW. We do not own the copyright to these datasets. Please download them directly from their official websites. Please follow the steps below to prepare your data environment.
 ### 1. Image Data
 Download the official datasets and pre-process (crop and resize) the images into **128×128** and **256×256** resolutions.
 
@@ -151,7 +151,7 @@ python main.py tune_deepfakes --res 256
 
 ## 📊 Testing
 
-The unified test script comprehensively evaluates the framework's performance across three key dimensions: watermark invisibility, and robustness against common distortions and deepfake manipulations.
+The unified test script comprehensively evaluates the framework's performance across three key dimensions: watermark invisibility, robustness against common distortions, and robustness against deepfake manipulations.
 ```
 # Evaluate on 128x128 resolution
 python main.py test --res 128
@@ -197,6 +197,7 @@ This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-
 
 
 ---
+
 
 
 
