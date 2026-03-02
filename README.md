@@ -138,7 +138,7 @@ python main.py train_distortions --res 128
 # Train on 256x256 resolution
 python main.py train_distortions --res 256
 ```
-**Stage 2:** Fine-tuning on Deepfake Manipulations. Building upon the pre-trained weights from Stage 1, this stage further optimizes the model to survive aggressive facial manipulations. The framework is fine-tuned against a diverse set of deepfake generators to ensure the LIDMark remains retrievable after identity swapping or reenactment.
+**Stage 2:** Fine-tuning on Deepfake Manipulations. Building upon the pre-trained weights from Stage 1, this stage further optimizes the model to survive aggressive facial manipulations. The framework is fine-tuned against a diverse set of deepfake generators to ensure the LIDMark remains retrievable after identity swapping or reenactment.<br>
 **Note:** Ensure the pre-trained checkpoints from Stage 1 are available in the `./weights/<res>_152/checkpoints_distortions/` directory before initiating this stage.
 ```
 # Fine-tune on 128x128 resolution
@@ -197,6 +197,7 @@ This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-
 
 
 ---
+
 
 
 
