@@ -29,9 +29,9 @@
 
 
 ## ✨ Highlights
-* **Novel Landmark-Identity Watermark (LIDMark):** We propose a 152-D high-capacity watermark, the first to structurally interweave a 136-D tamper-sensitive facial landmark vector with a 16-D robust source identifier into a single, unified payload.
-* **Task-Aware Factorized-Head Decoder (FHD):** We design a novel decoding architecture that factorizes shared backbone features into specialized regression and classification heads. This enables the concurrent and robust reconstruction of LIDMark's heterogeneous components.
-* **Trifunctional Forensics Framework:** We present the first "all-in-one" solution for joint deepfake detection, tampering localization, and source tracing, powered by LIDMark, FHD, and a novel "intrinsic-extrinsic" consistency check.
+* 🧬**Novel Landmark-Identity Watermark (LIDMark):** We propose a 152-D high-capacity watermark, the first to structurally interweave a 136-D tamper-sensitive facial landmark vector with a 16-D robust source identifier into a single, unified payload.
+* 🔀**Task-Aware Factorized-Head Decoder (FHD):** We design a novel decoding architecture that factorizes shared backbone features into specialized regression and classification heads. This enables the concurrent and robust reconstruction of LIDMark's heterogeneous components.
+* 🛡️**Trifunctional Forensics Framework:** We present the first "all-in-one" solution for joint deepfake detection, tampering localization, and source tracing, powered by LIDMark, FHD, and a novel "intrinsic-extrinsic" consistency check.
 
 
 ## 📖 Introduction
@@ -200,4 +200,5 @@ This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-
 
 
 ---
+
 
