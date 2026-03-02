@@ -17,7 +17,7 @@
 </div>
  
 ## 🔥 News
-* **[2026-02]** Our paper was accepted to IEEE/CVF Conf erence on Computer Vision and Pattern Recognition 2026 **(CVPR 2026)** !  🎉
+* **[2026-02]** Our paper was accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 **(CVPR 2026)** !  🎉
 
 
 ## 📆 Release Plan
@@ -197,6 +197,7 @@ This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-
 
 
 ---
+
 
 
 
