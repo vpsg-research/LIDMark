@@ -7,7 +7,7 @@ wm_path: "/home/wjj/LIDMark/dataset/watermark_152/celeba-hq"
 weight_path: "./weights/256_152"
 
 sep_model: true
-gpu_ids: "0, 1"
+gpu_ids: "0"
 seed: 42
 encoder_channels: 64
 decoder_channels: 64
