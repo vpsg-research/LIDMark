@@ -14,7 +14,7 @@ discriminator_channels: 64
 discriminator_blocks: 3
 watermark_length: 152   # Dimension of the watermark vector to be embedded (136 landmarks + 16 ID bits).
 epochs: 100
-batch_size: 16
+batch_size: 32
 lr: 4.3e-4    # Learning rate for the optimizer (Adam).
 manipulation_mode: "common"
 manipulation_layers:
