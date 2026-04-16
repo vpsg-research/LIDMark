@@ -1,5 +1,5 @@
 <div align="center">
-<h1> [CVPR'26] All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark </h1>
+<h1> [CVPR'26 Highlight] All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark </h1>
 
 <div>
     <a href='https://junjiang-wu.github.io/' target='_blank'>Junjiang Wu</a><sup>1</sup>&emsp;
