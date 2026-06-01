@@ -177,6 +177,7 @@ If you find this repository helpful, please cite our paper:
   title={All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark},
   author={Wu, Junjiang and Wang, Liejun and Guo, Zhiqing},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14106--14115},
   year={2026}
 }
 ```
