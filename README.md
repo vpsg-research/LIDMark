@@ -13,7 +13,9 @@
 
 <br>
 
-<a href="https://arxiv.org/abs/2602.23523"><img src="https://img.shields.io/badge/arXiv-Paper-red.svg?logo=arxiv" alt="Paper"></a>&nbsp;&nbsp;&nbsp;<a href="https://junjiang-wu.github.io/projects/lidmark/"><img src="https://img.shields.io/badge/Project_Page-Website-blue.svg?logo=github" alt="Project"></a>&nbsp;&nbsp;&nbsp;<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_All_in_One_Unifying_Deepfake_Detection_Tampering_Localization_and_Source_CVPR_2026_paper.pdf"><img src="https://img.shields.io/badge/Camera_Ready-PDF-green.svg?logo=adobeacrobatreader&logoColor=white" alt="Camera Ready"></a>
+<a href="https://arxiv.org/abs/2602.23523"><img src="https://img.shields.io/badge/arXiv-Paper-red.svg?logo=arxiv" alt="Paper"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://junjiang-wu.github.io/projects/lidmark/"><img src="https://img.shields.io/badge/Project_Page-Website-blue.svg?logo=github" alt="Project"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_All_in_One_Unifying_Deepfake_Detection_Tampering_Localization_and_Source_CVPR_2026_paper.pdf"><img src="https://img.shields.io/badge/Camera_Ready-PDF-green.svg?logo=googlescholar&logoColor=white" alt="Camera Ready"></a>
 
 </div>
  
