@@ -11,9 +11,16 @@
     <sup>2</sup>Xinjiang Multimodal Intelligent Processing and Information Security Engineering Technology Research Center, Urumqi, China
 </div>
 <br>
-<a href="https://arxiv.org/abs/2602.23523"><img src="https://img.shields.io/badge/arXiv-<Paper>-red.svg" alt="Paper"></a>
-<a href="https://junjiang-wu.github.io/projects/lidmark/"><img src="https://img.shields.io/badge/Project Page-<Website>-blue.svg" alt="Project"></a>
-<!-- <a href="CR_LINK"><img src="https://img.shields.io/badge/Camera Ready-<PDF>-green.svg" alt="Camera Ready"></a> -->
+<br>
+<a href="https://arxiv.org/abs/2602.23523">
+  <img src="https://img.shields.io/badge/arXiv-Paper-red.svg" alt="Paper">
+</a>
+<a href="https://junjiang-wu.github.io/projects/lidmark/">
+  <img src="https://img.shields.io/badge/Project_Page-Website-blue.svg" alt="Project">
+</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_All_in_One_Unifying_Deepfake_Detection_Tampering_Localization_and_Source_CVPR_2026_paper.pdf">
+  <img src="https://img.shields.io/badge/Camera_Ready-PDF-green.svg" alt="Camera Ready">
+</a>
 </div>
  
 ## 🔥 News
