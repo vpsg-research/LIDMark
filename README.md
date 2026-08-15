@@ -156,6 +156,23 @@ python main.py test --res 128
 python main.py test --res 256
 ```
 
+## 📦 Pre-trained Models
+
+We provide pre-trained checkpoints for both 128x128 and 256x256 resolutions.
+
+- **Google Drive:** [Download Link](https://drive.google.com/drive/folders/1UrIJHe8cbNLUqj0vM1CEFd39fSoKDj1S?usp=drive_link)
+
+Please download the checkpoints and organize them into the `weights/` directory as shown below:
+```text
+LIDMark/weights/
+├── 128_152/
+│   ├── checkpoints_deepfakes/
+│   │   └── checkpoint_epoch_100.pth
+└── 256_152/
+    └── checkpoints_deepfakes/
+        └── checkpoint_epoch_100.pth
+```
+
 ---
 ## 🎨 Visualization Results
 
