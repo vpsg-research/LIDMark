@@ -160,7 +160,7 @@ python main.py test --res 256
 
 We provide pre-trained checkpoints for both 128x128 and 256x256 resolutions.
 
-- **Google Drive:** [Download Link](https://drive.google.com/drive/folders/1UrIJHe8cbNLUqj0vM1CEFd39fSoKDj1S?usp=drive_link)
+- **Google Drive:** [Download Link](https://drive.google.com/drive/folders/1UrIJHe8cbNLUqj0vM1CEFd39fSoKDj1S?usp=sharing)
 
 Please download the checkpoints and organize them into the `weights/` directory as shown below:
 ```text
